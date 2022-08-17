@@ -1,0 +1,12 @@
+.app-table__td {
+  background-color: rgb(114, 211, 244) !important;
+}
+
+.table-cell-ticker-action,
+.table-cell-ticker-action__stock-symbol--inactive {
+  color: red !important;
+}
+
+.app-table__th {
+  font-style: italic !important;
+}
